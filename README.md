@@ -14,7 +14,8 @@ Vadoo is powered by webrtc which distributes the load on users to reduce the ser
 - Support any Android player
 - Efficient scheduling policies to enhance the performance of P2P streaming
 
-![Vadoo player screenshot](Vadoo_player.jpg)
+
+<img src="Vadoo_player.jpg"  width="300" height="500">
 
 ## Integration
 
