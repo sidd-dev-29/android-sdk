@@ -23,7 +23,7 @@ To integrate with our sdk, follow the steps from here [Integration](Integration.
 
 ## Sample apps
 
-To test out our sdk you can follow the examples from ![Sample apps](sample_apps)
+To test out our sdk you can follow the examples from [Sample apps](sample_apps)
 
 #### For generating token to use Vadoo 
 
